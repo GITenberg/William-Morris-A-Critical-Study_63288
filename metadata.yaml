@@ -1,0 +1,32 @@
+_repo: William-Morris-A-Critical-Study_63288
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Drinkwater, John
+    birthdate: 1882
+    deathdate: 1937
+    gutenberg_agent_id: '1820'
+    url: http://www.gutenberg.org/2009/agents/1820
+    wikipedia: http://en.wikipedia.org/wiki/John_Drinkwater
+description: ''
+gutenberg_issued: '2020-09-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63288'
+  lccn: '13000450'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy literature, English -- History and criticism'
+- !lcsh 'Medievalism -- England -- History -- 19th century'
+- !lcsh 'Middle Ages in literature'
+- !lcsh 'Morris, William, 1834-1896 -- Criticism and interpretation'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Introductory -- Early poems and prose -- Interlude -- Narrative poems
+  -- Love is enough and Sigurd the Volsung -- Translations and socialism -- Prose
+  romances and poems by the way -- Conclusion.
+title: 'William Morris: A Critical Study'
+url: http://www.gutenberg.org/ebooks/63288
